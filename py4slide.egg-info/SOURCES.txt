@@ -1,0 +1,10 @@
+setup.py
+py4slide/Page.py
+py4slide/Slide.py
+py4slide/SlideStyle.py
+py4slide/__init__.py
+py4slide.egg-info/PKG-INFO
+py4slide.egg-info/SOURCES.txt
+py4slide.egg-info/dependency_links.txt
+py4slide.egg-info/requires.txt
+py4slide.egg-info/top_level.txt
